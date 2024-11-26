@@ -1,0 +1,24 @@
+.container{
+
+    width: 40%;
+}
+.container h2{
+    font-size: 1.5rem;
+    text-align:  center;
+    margin-bottom: 20px;
+}
+
+.container li{
+    list-style-type: none;
+    background-color: #303030;
+    padding: 10px 5px;
+    text-align: center;
+    border-radius:5px ;
+    margin-bottom: 5px;
+    border: 1px solid #959595;
+}
+.container p{
+    color:red;
+    text-align: center;
+    font-size: 1.2rem;
+}
